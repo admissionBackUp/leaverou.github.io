@@ -3,6 +3,18 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk",
+					"video": "https://www.youtube.com/watch?v=Z-r3ec-mfcg&t=23s"
+				}
+			],
+			"name": "Admissionmentor",
+			"city": "India",
+			"comment": "https://www.admissionbackup.com/management-quota/direct-admission/pes-university/"
+		},
+		{
+			"talk": [
+				{
 					"title": "/Reg(exp){2}lained/: Demystifying Regular Expressions",
 					"type": "Talk"
 				}
